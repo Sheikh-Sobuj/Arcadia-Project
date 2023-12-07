@@ -118,7 +118,7 @@ section {
 
 .header .text h1 {
     position: relative;
-    font-size: 120px;
+    font-size: 100px;
     mix-blend-mode: overlay;
     color: var(---white);
     padding: 0px 50px;
