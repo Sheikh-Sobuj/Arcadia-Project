@@ -121,7 +121,7 @@ section {
     font-size: 100px;
     mix-blend-mode: overlay;
     color: var(---white);
-    padding: 0px 50px;
+    padding: 0px 20px;
     animation: animate 0.5s infinite alternate;
     z-index: 7;
 }
