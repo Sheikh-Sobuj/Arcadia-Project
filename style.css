@@ -118,10 +118,10 @@ section {
 
 .header .text h1 {
     position: relative;
-    font-size: 100px;
+    font-size: 120px;
     mix-blend-mode: overlay;
     color: var(---white);
-    padding: 0px 20px;
+    padding: 0px 50px;
     animation: animate 0.5s infinite alternate;
     z-index: 7;
 }
@@ -1139,7 +1139,10 @@ section {
         display: block;
         text-align: center;
     }
-
+    .fot .last p,
+    .fot .last .faq a{
+        font-size: 16px;
+    }
     .fot .last .faq {
         justify-content: center;
         margin-top: 10px;
